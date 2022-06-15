@@ -1,1 +1,3 @@
-# html-css-project-boilerplate
+# Photography Site
+
+A collection of different photographs
